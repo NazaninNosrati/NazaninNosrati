@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,php,cpp,csharp,pytorch,figma" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,php,cpp,cs,pytorch,figma" alt="Tech stack icons" />
 </p>
 
 ### 📫 How to reach me
